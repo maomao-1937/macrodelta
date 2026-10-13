@@ -1,0 +1,5 @@
+[
+  {"id": "refund-reply", "text": "You can ask for a refund within 30 days after buying an item. Reply with your order number."},
+  {"id": "shipping-reply", "text": "Standard delivery usually arrives in 3 to 5 business days."},
+  {"id": "greeting", "text": "Thanks for getting in touch. How can we help today?"}
+]
